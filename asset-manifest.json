@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Auth-system-Frontend/static/css/main.084f601b.css",
+    "main.js": "/Auth-system-Frontend/static/js/main.82537225.js",
+    "index.html": "/Auth-system-Frontend/index.html",
+    "main.084f601b.css.map": "/Auth-system-Frontend/static/css/main.084f601b.css.map",
+    "main.82537225.js.map": "/Auth-system-Frontend/static/js/main.82537225.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.084f601b.css",
+    "static/js/main.82537225.js"
+  ]
+}
